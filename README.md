@@ -1,4 +1,4 @@
-# Movie-Search
+# Movie-Search App
 
 A movie search web application showing movies as well as a chart of their genres
 
